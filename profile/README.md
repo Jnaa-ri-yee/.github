@@ -24,7 +24,7 @@ El equipo **Jña'a Ri Y'ë'ë** nació en octubre-noviembre de 2025, cuando un g
 
 **¿Por qué "Jña'a Ri Y'ë'ë"?**
 
-Elegimos este nombre en otomí porque:
+Elegimos este nombre en MAZAHUA porque:
 - Refleja nuestras raíces MAZAHUAS
 - Representa el intercambio bidireccional de conocimiento
 - Honra las lenguas originarias de México
