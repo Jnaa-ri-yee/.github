@@ -1,5 +1,5 @@
 # Jña'a Ri Y'ë'ë 🌟
-**pagina web https://github.com/Jnaa-ri-yee**
+**pagina web https://www.jnaa-ri-yee.com**
 
 > *"Comunicación Sin Límites"*
 
