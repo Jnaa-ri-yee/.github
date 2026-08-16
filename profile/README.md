@@ -24,7 +24,13 @@
 
 <h3><img src="https://api.iconify.design/mdi:tools.svg?color=%238BC34A&height=24" valign="middle"/>&nbsp; Stack tecnológico</h3>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,tensorflow,opencv,nextjs,react,ts,tailwind,fastapi,nodejs,postgres,docker,git,raspberrypi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,tensorflow,opencv,nextjs,react,ts,tailwind,fastapi,nodejs,postgres,docker,git,raspberrypi,firebase,gcp,azure,vercel&theme=dark" />
+
+<br/><br/>
+ 
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 </div>
 
