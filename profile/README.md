@@ -44,28 +44,27 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://api.iconify.design/mdi:hand-wave-outline.svg?height=16" valign="middle"/> &nbsp;**01** &nbsp;[Sobre el proyecto](#01)
-<br/><img src="https://api.iconify.design/mdi:compass-outline.svg?height=16" valign="middle"/> &nbsp;**02** &nbsp;[Misión, visión y valores](#02)
-<br/><img src="https://api.iconify.design/mdi:alert-decagram-outline.svg?height=16" valign="middle"/> &nbsp;**03** &nbsp;[La problemática](#03)
-<br/><img src="https://api.iconify.design/mdi:sitemap-outline.svg?height=16" valign="middle"/> &nbsp;**04** &nbsp;[Arquitectura del sistema](#04)
-<br/><img src="https://api.iconify.design/mdi:transit-connection-variant.svg?height=16" valign="middle"/> &nbsp;**05** &nbsp;[Pipeline de reconocimiento](#05)
-<br/><img src="https://api.iconify.design/mdi:progress-check.svg?height=16" valign="middle"/> &nbsp;**06** &nbsp;[Estado actual del desarrollo](#06)
-<br/><img src="https://api.iconify.design/mdi:flag-checkered.svg?height=16" valign="middle"/> &nbsp;**07** &nbsp;[Objetivos específicos](#07)
+<img src="https://api.iconify.design/mdi:hand-wave-outline.svg?color=%2300C2FF&height=16" valign="middle"/> **01** &nbsp;[Sobre el proyecto](#01)  
+<img src="https://api.iconify.design/mdi:compass-outline.svg?color=%2300C2FF&height=16" valign="middle"/> **02** &nbsp;[Misión, visión y valores](#02)  
+<img src="https://api.iconify.design/mdi:alert-decagram-outline.svg?color=%2300C2FF&height=16" valign="middle"/> **03** &nbsp;[La problemática](#03)  
+<img src="https://api.iconify.design/mdi:sitemap-outline.svg?color=%2300C2FF&height=16" valign="middle"/> **04** &nbsp;[Arquitectura del sistema](#04)  
+<img src="https://api.iconify.design/mdi:transit-connection-variant.svg?color=%2300C2FF&height=16" valign="middle"/> **05** &nbsp;[Pipeline de reconocimiento](#05)  
+<img src="https://api.iconify.design/mdi:progress-check.svg?color=%2300C2FF&height=16" valign="middle"/> **06** &nbsp;[Estado actual del desarrollo](#06)  
+<img src="https://api.iconify.design/mdi:flag-checkered.svg?color=%2300C2FF&height=16" valign="middle"/> **07** &nbsp;[Objetivos específicos](#07)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://api.iconify.design/mdi:database-outline.svg?height=16" valign="middle"/> &nbsp;**08** &nbsp;[Dataset](#08)
-<br/><img src="https://api.iconify.design/mdi:chart-line.svg?height=16" valign="middle"/> &nbsp;**09** &nbsp;[Resultados del modelo](#09)
-<br/><img src="https://api.iconify.design/mdi:account-group-outline.svg?height=16" valign="middle"/> &nbsp;**10** &nbsp;[Equipo](#10)
-<br/><img src="https://api.iconify.design/mdi:map-marker-path.svg?height=16" valign="middle"/> &nbsp;**11** &nbsp;[Hoja de ruta](#11)
-<br/><img src="https://api.iconify.design/mdi:handshake-outline.svg?height=16" valign="middle"/> &nbsp;**12** &nbsp;[Cómo colaborar](#12)
-<br/><img src="https://api.iconify.design/mdi:email-outline.svg?height=16" valign="middle"/> &nbsp;**13** &nbsp;[Contacto](#13)
+<img src="https://api.iconify.design/mdi:database-outline.svg?color=%2300C2FF&height=16" valign="middle"/> **08** &nbsp;[Dataset](#08)  
+<img src="https://api.iconify.design/mdi:chart-line.svg?color=%2300C2FF&height=16" valign="middle"/> **09** &nbsp;[Resultados del modelo](#09)  
+<img src="https://api.iconify.design/mdi:account-group-outline.svg?color=%2300C2FF&height=16" valign="middle"/> **10** &nbsp;[Equipo](#10)  
+<img src="https://api.iconify.design/mdi:map-marker-path.svg?color=%2300C2FF&height=16" valign="middle"/> **11** &nbsp;[Hoja de ruta](#11)  
+<img src="https://api.iconify.design/mdi:handshake-outline.svg?color=%2300C2FF&height=16" valign="middle"/> **12** &nbsp;[Cómo colaborar](#12)  
+<img src="https://api.iconify.design/mdi:email-outline.svg?color=%2300C2FF&height=16" valign="middle"/> **13** &nbsp;[Contacto](#13)
 
 </td>
 </tr>
 </table>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
 <a id="01"></a>
