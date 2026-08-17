@@ -11,9 +11,13 @@
 ![Letras](https://img.shields.io/badge/letras%20reconocidas-21%20%2F%2027-7B2FF7?style=for-the-badge&labelColor=1a1a2e)
 
 <p>
-<a href="https://www.jnaa-ri-yee.com"><img src="https://api.iconify.design/mdi:web.svg?color=%2300C2FF&height=18" valign="middle"/> &nbsp;Sitio web</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/Jnaa-ri-yee"><img src="https://api.iconify.design/mdi:github.svg?color=%2300C2FF&height=18" valign="middle"/> &nbsp;GitHub</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:jnaariyee@gmail.com"><img src="https://api.iconify.design/mdi:email-outline.svg?color=%2300C2FF&height=18" valign="middle"/> &nbsp;Contacto</a>
+  <a href="https://www.jnaa-ri-yee.com"><img src="https://api.iconify.design/mdi:web.svg?color=%2300C2FF&height=18" valign="middle"/>&nbsp; Sitio web</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Jnaa-ri-yee"><img src="https://api.iconify.design/mdi:github.svg?color=%2300C2FF&height=18" valign="middle"/>&nbsp; GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/jnaa_ri_yee/"><img src="https://api.iconify.design/mdi:instagram.svg?color=%2300C2FF&height=18" valign="middle"/>&nbsp; Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:jnaariyee@gmail.com"><img src="https://api.iconify.design/mdi:email-outline.svg?color=%2300C2FF&height=18" valign="middle"/>&nbsp; Contacto</a>
 </p>
 
 </div>
@@ -300,7 +304,7 @@ En el corto plazo:
 [![Email](https://img.shields.io/badge/Email-jnaariyee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnaariyee@gmail.com)
 [![Web](https://img.shields.io/badge/Web-jnaa--ri--yee.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jnaa-ri-yee.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Jnaa--ri--yee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jnaa-ri-yee)
-
+[![Instagram](https://img.shields.io/badge/Instagram-jnaa__ri__yee-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jnaa_ri_yee/)
 <br/>
 
 *"cada seña reconocida es una barrera menos para alguien que depende de la LSM para comunicarse"*
